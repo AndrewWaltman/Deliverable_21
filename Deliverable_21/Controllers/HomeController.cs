@@ -23,8 +23,23 @@ namespace Deliverable_21.Controllers
             return View();
         }
 
+        public IActionResult Registration(string UserName, string Email, string Password)
+        {
+            ViewBag.UN = UserName;
+            ViewBag.E = Email;
+            ViewBag.P = Password;
+            return View();
+        }
+
+        public IActionResult RResult(string UserName)
+    {
+            ViewBag.UN = UserName;
+            return View();
+        }
+
         public IActionResult Privacy()
         {
+            
             return View();
         }
 

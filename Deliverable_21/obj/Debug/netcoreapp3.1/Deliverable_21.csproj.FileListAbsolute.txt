@@ -35,3 +35,5 @@ C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliver
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliverable_21\obj\Debug\netcoreapp3.1\Deliverable_21.csproj.CopyComplete
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliverable_21\obj\Debug\netcoreapp3.1\Deliverable_21.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliverable_21\obj\Debug\netcoreapp3.1\Deliverable_21.genruntimeconfig.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliverable_21\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 5\Deliverable_21\Deliverable_21\obj\Debug\netcoreapp3.1\Razor\Views\Home\RResult.cshtml.g.cs
